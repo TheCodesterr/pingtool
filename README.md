@@ -1,2 +1,2 @@
 # pingtool
-Enter the store number and select what device(s) you want to ping without having to type or memorize commands.
+Enter a store number and select what device(s) you want to ping without having to type (avoids annoying typos) or memorize commands.
