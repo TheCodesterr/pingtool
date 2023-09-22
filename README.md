@@ -1,6 +1,6 @@
 # pingtool
-Enter a store number and select what device(s) you want to ping without having to type (avoids annoying typos) or memorize commands.
-![Ping Tool](https://github.com/TheCodesterr/pingtool/assets/34100586/21d163cb-9831-42cb-80c3-9fb459e997c5)
+Enter a store number and select what device(s) you want to ping without having to type (avoids annoying typos) or memorize commands.<br>
+<c>![Ping Tool](https://github.com/TheCodesterr/pingtool/assets/34100586/21d163cb-9831-42cb-80c3-9fb459e997c5)</c>
 # Installation instructions: 
 1. Install the latest version of Python [here](https://www.python.org/downloads/) (Windows and Mac supported).<br>
 NOTE: You can install Python from the Microsoft Store and bypass the bit9 blocker. Mac should also have Python in the App Store.
