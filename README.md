@@ -1,5 +1,6 @@
 # pingtool
-Enter a store number and select what device(s) you want to ping without having to type (avoids annoying typos) or memorize commands.<br />
+Enter a store number and select what device(s) you want to ping without having to type (avoids annoying typos) or memorize commands
+<br>
 ![Ping Tool](https://github.com/TheCodesterr/pingtool/assets/34100586/21d163cb-9831-42cb-80c3-9fb459e997c5)
 # Installation instructions: 
 1. Install the latest version of Python [here](https://www.python.org/downloads/) (Windows and Mac supported).<br>
